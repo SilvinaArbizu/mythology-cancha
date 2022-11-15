@@ -1,0 +1,25 @@
+.camiseta{
+  height: 10vh;
+}
+.formulario { 
+  font-size: larger;
+  font-style:oblique;
+  font-weight: bold;
+  color:rgb(26, 17, 123);
+  background-color: white;
+  text-align: center;
+}
+.input{
+  border-radius: 10px;
+  border-style: inherit;
+  text-align: center;
+}
+.boton{
+  margin: 5px;
+  padding:5px;
+  border-radius: 10px;
+  border-color:rgb(26, 17, 123);
+  color:rgb(26, 17, 123);
+  background-color: rgb(233, 216, 64);
+  font-weight:bold;
+}

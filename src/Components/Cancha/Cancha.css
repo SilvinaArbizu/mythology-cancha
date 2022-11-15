@@ -1,0 +1,27 @@
+.cancha {
+    width: 50%;
+    height: 100%;
+    padding: 1em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.equipo, .jugadores {
+    padding: 1em;
+    height: 50%;
+}
+
+.equipo div, .jugadores div {
+    display: flex;
+}
+
+.jugadores div {
+    justify-content: space-around;
+}
+.suplentes{
+    background-color: yellow;
+    display: flex;
+}
+.CT{
+    background-color: green;
+}

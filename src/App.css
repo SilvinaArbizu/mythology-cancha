@@ -1,0 +1,11 @@
+.App{
+  height: 763px;
+  width: 1081px;
+  border: 1px solid black;
+  display: flex;
+  }
+  
+.logo {
+    height:150px;
+    width:500px;
+  }

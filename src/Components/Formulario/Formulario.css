@@ -1,0 +1,10 @@
+.formulario { 
+    font-size: larger;
+    font-style:oblique;
+    font-weight: bold;
+    color:rgb(26, 17, 123);
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    margin-left: 8vh;
+  }

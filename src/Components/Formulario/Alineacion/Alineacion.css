@@ -1,0 +1,15 @@
+.input{
+    border-radius: 10px;
+    border-style: inherit;
+    text-align: center;
+  
+  }
+.formulario { 
+    font-size: larger;
+    font-style:oblique;
+    font-weight: bold;
+    color:rgb(26, 17, 123);
+    background-color: white;
+    width: 50%;
+    text-align: center;
+  }

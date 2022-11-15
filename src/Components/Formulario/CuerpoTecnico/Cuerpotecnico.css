@@ -1,0 +1,10 @@
+.input{
+    border-radius: 10px;
+    border-style: inherit;
+    text-align: center;
+  
+  }
+.medicos{
+    display:flex;
+    justify-content: center;
+  }
