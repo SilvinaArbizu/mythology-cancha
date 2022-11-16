@@ -1,6 +1,6 @@
 import "./Cancha.css";
 import Personaje from "../Personaje/Personaje";
-import cancha from "/Users/Admin/Desktop/cancha-mythology/src/assets/img/cancha.png";
+import cancha from "../../assets/img/cancha.png";
 
 function Cancha({ equipo }) {
   return (
@@ -57,7 +57,7 @@ function Cancha({ equipo }) {
           {equipo.cuerpotecnico.CM ? (
             <Personaje nombre={equipo.cuerpotecnico.CM} />
           ) : null}
-      </div>
+         </div>
     </div>
   );
 }

@@ -4,7 +4,7 @@ import Alineacion from "./Alineacion/Alineacion";
 import Cuerpotecnico from "./CuerpoTecnico/Cuerpotecnico";
 import Dt from "./DT/Dt";
 import "./Formulario.css";
-import team from "/Users/Admin/Desktop/cancha-mythology/src/assets/img/team.png";
+import team from "../../assets/img/team.png";
 
 
 function Formulario({ equipo, setEquipo }) {

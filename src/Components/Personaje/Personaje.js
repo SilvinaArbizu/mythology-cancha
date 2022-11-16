@@ -1,5 +1,5 @@
 import "./Personaje.css";
-import camiseta2 from "/Users/Admin/Desktop/cancha-mythology/src/assets/img/camiseta2.png";
+import camiseta2 from "../../assets/img/camiseta2.png";
 
 function Personaje({ nombre }) {
   return (
